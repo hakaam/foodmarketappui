@@ -8,7 +8,7 @@ ScreenShots
 
 2.HomePage
 
-![shop](shop.PNG)
+![home](home.PNG)
 
 2.CartPage
 
